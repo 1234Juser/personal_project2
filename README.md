@@ -13,5 +13,6 @@
 
 개발환경 :  STS, Java21, 부트스트랩, Apache Tomcat, Spring boot, H2DB, 스프링시큐리티, 자바스크립트
 
-구현 부분 메인페이지
+구현 부분 영상
+https://github.com/user-attachments/assets/fce6a94d-802d-4705-94d9-714255ec20c5
 
